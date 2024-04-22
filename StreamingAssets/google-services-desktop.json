@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107800002682",
+    "project_id": "juego-proceso",
+    "storage_bucket": "juego-proceso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107800002682:android:33aa0ca0ffc4fe54937bc3",
+        "android_client_info": {
+          "package_name": "com.ENJ.JuegoPROCESO"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAleEIfrZQj36QbqRPn7YSoCwCruFa14es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
