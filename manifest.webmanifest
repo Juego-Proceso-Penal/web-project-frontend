@@ -1,9 +1,9 @@
 {
-    "name": "Juego Proceso Penal",
-    "short_name": "Juego Proceso Penal",
+    "name": "Juego El Proceso Penal",
+    "short_name": "Juego El Proceso Penal",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#FFFFFF",
     "theme_color": "#000",
     "description": "",
     "icons": [{

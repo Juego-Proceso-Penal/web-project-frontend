@@ -1,4 +1,4 @@
-const cacheName = "ENJ-Juego Proceso Penal-0.1";
+const cacheName = "ENJ-Juego El Proceso Penal-0.1";
 const contentToCache = [
     "Build/Build-Web-PROCESO.loader.js",
     "Build/Build-Web-PROCESO.framework.js.unityweb",

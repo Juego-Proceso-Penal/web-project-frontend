@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity Web Player | Juego Proceso Penal</title>
+    <title>Unity Web Player | Juego El Proceso Penal</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
@@ -65,7 +65,7 @@
         codeUrl: buildUrl + "/Build-Web-PROCESO.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "ENJ",
-        productName: "Juego Proceso Penal",
+        productName: "Juego El Proceso Penal",
         productVersion: "0.1",
         showBanner: unityShowBanner,
       };
@@ -85,6 +85,7 @@
         document.getElementsByTagName('head')[0].appendChild(meta);
       }
 
+      canvas.style.background = "url('" + buildUrl + "/Build-Web-PROCESO.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
