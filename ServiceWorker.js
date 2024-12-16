@@ -1,9 +1,9 @@
 const cacheName = "ENJ-Juego El Proceso Penal-0.1";
 const contentToCache = [
-    "Build/Build-Web-PROCESO.loader.js",
-    "Build/Build-Web-PROCESO.framework.js.unityweb",
-    "Build/Build-Web-PROCESO.data.unityweb",
-    "Build/Build-Web-PROCESO.wasm.unityweb",
+    "Build/EL PROCESO WEB BUILD.loader.js",
+    "Build/EL PROCESO WEB BUILD.framework.js.unityweb",
+    "Build/EL PROCESO WEB BUILD.data.unityweb",
+    "Build/EL PROCESO WEB BUILD.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
